@@ -1,0 +1,8 @@
+{
+  "name": "w-black",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p www && cp W_BLACK_MAIN-10-strategy-hardened-68-1-8-wolf-rank-badges-reordered.html www/index.html"
+  }
+}
